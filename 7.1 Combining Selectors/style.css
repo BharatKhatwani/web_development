@@ -1,0 +1,26 @@
+/* Write your code here: */
+h1,h2{
+    color:blueviolet;
+}
+
+/* jise line me specific krna ha upper wala child and nikel wala parentvclass hoga */
+/*div>p{
+    color:firebrick;
+}*/
+/* same upper and lower*/
+
+
+.box>p{
+    color:firebrick;
+}
+
+
+.box li{
+    color :blue;
+}
+li.done{
+    color:seagreen;
+}
+ul p.done{
+    font-size: 2rem;
+}
